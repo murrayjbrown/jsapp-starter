@@ -1,4 +1,5 @@
 # JavaScript Resources
+
 ## Lists
 - Douglas Crockford JavaScript links
 
@@ -9,9 +10,9 @@
   [https://github.com/ericelliott/essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
 
 ## Books
-- _JavaScript: The Good Parts_ -- Douglas Crockford
-- _Programming JavaScript Applications_ -- Eric Elliot
-- _Understanding ECMAScript 6_ -- Nicholas C. Zakos
+- _JavaScript: The Good Parts_ — Douglas Crockford
+- _Programming JavaScript Applications_ — Eric Elliot
+- _Understanding ECMAScript 6_ — Nicholas C. Zakos
 
 ### Books online
 - Free JavaScript books
@@ -26,31 +27,31 @@
 
   [https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-- _Douglas Crockford speaking about the new good parts of JavaScript in 2014_ -- Adam Beres-Deak
+- _Douglas Crockford speaking about the new good parts of JavaScript in 2014_ — Adam Beres-Deak
 
   [http://bdadam.com/blog/video-douglas-crockford-about-the-new-good-parts.html](http://bdadam.com/blog/video-douglas-crockford-about-the-new-good-parts.html)
 
-- _The Two Pillars of JavaScript_ -- Eric Elliott
+- _The Two Pillars of JavaScript_ — Eric Elliott
 
   [https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 
-- 10 Interview Questions Every JavaScript Developer Should Know -- Eric Elliott
+- 10 Interview Questions Every JavaScript Developer Should Know — Eric Elliott
 
   [https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
-- _Prototypal Programming in Javascript_ -- Aaron Krauss
+- _Prototypal Programming in Javascript_ — Aaron Krauss
 
   [https://thesocietea.org/2015/08/prototypal-programming-in-javascript/](https://thesocietea.org/2015/08/prototypal-programming-in-javascript/)
 
-- _JavaScript Classes and Instantiation Patterns_ -- Ryan Atkinson
+- _JavaScript Classes and Instantiation Patterns_ — Ryan Atkinson
 
   [http://www.ryanatkinson.io/javascript-instantiation-patterns/](http://www.ryanatkinson.io/javascript-instantiation-patterns/)
 
-- _Prototypical inheritance done right_ -- Oliver Caldwell
+- _Prototypical inheritance done right_ — Oliver Caldwell
 
   [http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/)
 
-- _Explaining JavaScript scope and closures_ -- Robert Nyman
+- _Explaining JavaScript scope and closures_ — Robert Nyman
 
   [http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/)
 
@@ -58,27 +59,27 @@
 
   [https://github.com/rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 
-- _JavaScript: Shim vs Polyfill_ -- Tian Davis
+- _JavaScript: Shim vs Polyfill_ — Tian Davis
 
   [http://blog.respoke.io/post/111278536998/javascript-shim-vs-polyfill](http://blog.respoke.io/post/111278536998/javascript-shim-vs-polyfill)
 
-- _ECMAScript 6 modules: the final syntax_ -- Axel Rauschmayer
+- _ECMAScript 6 modules: the final syntax_ — Axel Rauschmayer
 
   [http://www.2ality.com/2014/09/es6-modules-final.html](http://www.2ality.com/2014/09/es6-modules-final.html)
 
-- _JavaScript Promises: There and back again_ -- Jake Archibald
+- _JavaScript Promises: There and back again_ — Jake Archibald
 
   [http://www.html5rocks.com/en/tutorials/es6/promises/](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
-- _How to Use ES6 for Universal JavaScript Apps_ -- Eric Elliott
+- _How to Use ES6 for Universal JavaScript Apps_ — Eric Elliott
 
   [https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
 
-- _Writing client-side ES6 with webpack_ -- Axel Rauschmayer
+- _Writing client-side ES6 with webpack_ — Axel Rauschmayer
 
   [http://www.2ality.com/2015/04/webpack-es6.html](http://www.2ality.com/2015/04/webpack-es6.html)
 
-- _Browserify vs Webpack_ -- Cory House
+- _Browserify vs Webpack_ — Cory House
 
   [https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9](https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9)
 
@@ -86,23 +87,23 @@
 
   [http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 
-- _Gettings started with Babel and Node_ -- Brian Mancini
+- _Gettings started with Babel and Node_ — Brian Mancini
 
   [http://derpturkey.com/gettings-started-with-babel-and-node/](http://derpturkey.com/gettings-started-with-babel-and-node/)
 
-- _Practical workflows for ES6 modules_ -- Guy Bedford
+- _Practical workflows for ES6 modules_ — Guy Bedford
 
   [http://guybedford.com/practical-workflows-for-es6-modules](http://guybedford.com/practical-workflows-for-es6-modules)
 
-- _UMD: JavaScript modules that run anywhere_ -- Bob Yexley
+- _UMD: JavaScript modules that run anywhere_ — Bob Yexley
 
   [http://bob.yexley.net/umd-javascript-that-runs-anywhere/](http://bob.yexley.net/umd-javascript-that-runs-anywhere/)
 
-- _Writing Modular JavaScript With AMD, CommonJS & ES Harmony_ -- Addy Osmani
+- _Writing Modular JavaScript With AMD, CommonJS & ES Harmony_ — Addy Osmani
 
   [http://addyosmani.com/writing-modular-js/](http://addyosmani.com/writing-modular-js/)
 
-- _Webpack How-To_ -- Pete Hunt
+- _Webpack How-To_ — Pete Hunt
 
   [https://github.com/petehunt/webpack-howto#](https://github.com/petehunt/webpack-howto#)
 
@@ -110,9 +111,18 @@
 
   [http://www.html5rocks.com/en/tutorials/speed/script-loading/](http://www.html5rocks.com/en/tutorials/speed/script-loading/)
 
-- _Must See JavaScript Dev Tools That Put Other Dev Tools to Shame_ -- Eric Elliot
-
+- _Must See JavaScript Dev Tools That Put Other Dev Tools to Shame_ — Eric Elliot
   [https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.wa98ymcnm](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.wa98ymcnm)
+
+- _How to learn ES6_ — Eric Elliott
+  [https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620)
+
+- _The Heart & Soul of Prototypal OO: Concatenative Inheritance_ — Eric Elliott
+  [https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819](https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819)
+
+- JavaScript At Scale — Achieving High Velocity* — Kurtis Kemple
+  [https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03)
+
 
 ## Websites
 - JavasScript: Mozilla Developer Network
@@ -242,6 +252,7 @@
   With a simple build step, uRequire converts your modules to UMD (or AMD, nodejs or 'combined.js') using static code analysis, a code generation template system and build/runtime dependency path resolution along with other build & runtime goodies.
 
 ## MVC frameworks
+
 ### Mithril
   [http://mithriljs.com](http://mithriljs.com)
 
@@ -289,6 +300,7 @@
   - repo: [https://github.com/flarum/flarum](https://github.com/flarum/flarum)
 
 ## Transpiler languages
+
 ### TypeScript
   [http://www.typescriptlang.org](http://www.typescriptlang.org)
 
