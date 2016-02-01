@@ -23,7 +23,7 @@
 - [https://www.youtube.com/watch?v=bo36MrBfTk4](https://www.youtube.com/watch?v=bo36MrBfTk4)
 
 ## Articles
-- A re-introduction to JavaScript (MDN JS tutorial)
+- _A re-introduction to JavaScript_ (MDN JS tutorial)
 
   [https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
@@ -35,7 +35,7 @@
 
   [https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 
-- 10 Interview Questions Every JavaScript Developer Should Know — Eric Elliott
+- _10 Interview Questions Every JavaScript Developer Should Know_ — Eric Elliott
 
   [https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
@@ -120,9 +120,11 @@
 - _The Heart & Soul of Prototypal OO: Concatenative Inheritance_ — Eric Elliott
   [https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819](https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819)
 
-- JavaScript At Scale — Achieving High Velocity* — Kurtis Kemple
+- _JavaScript At Scale — Achieving High Velocity_ — Kurtis Kemple
   [https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03)
 
+- _What are the best Angular.js alternatives?_
+  http://www.slant.co/topics/4306/~angular-js-alternatives
 
 ## Websites
 - JavasScript: Mozilla Developer Network
