@@ -1,8 +1,8 @@
 {
     "name": "demo",
     "devDependencies": {
-        "babel": "latest",
-        "cpy": "latest",
+        "babel-cli": "latest",
+        "cpy-cli": "latest",
         "jshint": "latest",
         "mocha": "latest",
         "rimraf": "latest",

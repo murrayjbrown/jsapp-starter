@@ -6,6 +6,8 @@
 var m = require('mithril');
 
 ;(function demo() {
+    'use strict';
+
     var model, vm, component;
 
     // Application data model
@@ -46,4 +48,4 @@ var m = require('mithril');
     // mount Mithril component
     // m.mount( document.getElementById('vixDemoContainer'), component );
     m.mount(document, component);
-})();
+});
