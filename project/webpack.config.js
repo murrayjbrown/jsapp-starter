@@ -15,7 +15,7 @@ module.exports = {
     },
     entry: {
         app: ["app/demo", ],
-        common: ["lib/demo_mod1", "lib/demo_mod2", ],
+        common: ["lib/demo_mod1", "lib/demo_mod2", "react", "react-dom"],
     },
     output: {
         path: path.join(__dirname, "build", "app"),

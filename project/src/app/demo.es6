@@ -1,4 +1,3 @@
-// Copyright (c) 2015 Datifex, inc. All rights reserved.
 //
 // demo:    Sample JavaScript application to demonstrate
 //          npm build process with webpack code bundling.
@@ -46,6 +45,6 @@ var m = require('mithril');
     };
 
     // mount Mithril component
-    // m.mount( document.getElementById('vixDemoContainer'), component );
+    // m.mount( document.getElementById('demoContainer'), component );
     m.mount(document, component);
 });
