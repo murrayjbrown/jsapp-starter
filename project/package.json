@@ -2,8 +2,8 @@
     "name": "demo",
     "devDependencies": {
         "babel-cli": "latest",
-        "babel-preset-es2015",
-        "babel-preset-react",
+        "babel-preset-es2015": "latest",
+        "babel-preset-react": "latest",
         "cpy-cli": "latest",
         "jshint": "latest",
         "mocha": "latest",
