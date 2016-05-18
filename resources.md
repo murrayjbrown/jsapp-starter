@@ -3,11 +3,13 @@
 ## Lists
 - [Douglas Crockford's links](http://www.crockford.com/javascript/)
 - [Eric Elliott's essential links](https://github.com/ericelliott/essential-javascript-links)
+- [ReactiveX tutorial resources](http://reactivex.io/tutorials.html)
 
 ## Books
 - _JavaScript: The Good Parts_ — Douglas Crockford
-- _Programming JavaScript Applications_ — Eric Elliot
+- [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) — Eric Elliot
 - _Understanding ECMAScript 6_ — Nicholas C. Zakos
+- _[RxJS: Javascript library for functional reactive programming](https://xgrommx.github.io/rx-book/index.html)_ — Dennis Stoyanov
 - [Free JavaScript books online](http://jsbooks.revolunet.com/)
 
 ## Videos
@@ -16,42 +18,49 @@
 - [Introduction to Reactive Programming w/ RxJS](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
 - [Beyond the DOM: How Netflix uses ReactJS](https://www.youtube.com/watch?v=eNC0mRYGWgc)
 - [Overview of Cycle.js (RxJS)](https://egghead.io/lessons/rxjs-overview-of-cycle-js)
+- [Debugging Promises with DevTools, Totally Tooling Tips (S1, Ep2)](https://www.youtube.com/watch?v=o9c3U5_8tGY) — Google Developers
 
 ## Articles
-- [The World's Most Misunderstood Programming Language Has Become the World's Most Popular Programming Language](http://javascript.crockford.com/popular.html) — Douglass Crockford
-- [A re-introduction to JavaScript](
-  https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) (MDN tutorial)
-- [Douglas Crockford speaking about the new good parts of JavaScript in 2014](http://bdadam.com/blog/video-douglas-crockford-about-the-new-good-parts.html) — Adam Beres-Deak
+
+### Essential reading
 - [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) — Eric Elliott
-- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) — Eric Elliott
+- [The World's Most Misunderstood Programming Language Has Become the World's Most Popular Programming Language](http://javascript.crockford.com/popular.html) — Douglass Crockford
+- [Douglas Crockford speaks about the new good parts of JavaScript in 2014](http://bdadam.com/blog/video-douglas-crockford-about-the-new-good-parts.html) — Adam Beres-Deak
+- [Common Misconceptions about Inheritance in Javascript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.l4aoueqpc) — Eric Elliott
 - [Prototypal Programming in Javascript](https://thesocietea.org/2015/08/prototypal-programming-in-javascript/) — Aaron Krauss
-- [JavaScript Classes and Instantiation Patterns](http://www.ryanatkinson.io/javascript-instantiation-patterns/) — Ryan Atkinson
+- [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) (MDN tutorial)
+- [The Heart & Soul of Prototypal OO: Concatenative Inheritance](https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819) — Eric Elliott
 - [Prototypical inheritance done right](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/) — Oliver Caldwell
 - [Explaining JavaScript scope and closures](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/) — Robert Nyman
-- [JavaScript: Shim vs Polyfill](http://blog.respoke.io/post/111278536998/javascript-shim-vs-polyfill) — Tian Davis
+- [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) — Andre Staltz
+- [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
+
+### Additional material
+- [How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620) — Eric Elliott
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) — Axel Rauschmayer
+- [JavaScript: Shim vs Polyfill](http://blog.respoke.io/post/111278536998/javascript-shim-vs-polyfill) — Tian Davis
+- [JavaScript Classes and Instantiation Patterns](http://www.ryanatkinson.io/javascript-instantiation-patterns/) — Ryan Atkinson
 - [JavaScript Promises: There and back again](http://www.html5rocks.com/en/tutorials/es6/promises/) — Jake Archibald
 - [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) — Eric Elliott
-- [Writing client-side ES6 with Webpack](http://www.2ality.com/2015/04/webpack-es6.html)  — Axel Rauschmayer
-- [Browserify vs Webpack](https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9) — Cory House
-- [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - Keith Cirkel
+- [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872#.3z4b8lsqj) — Frederik Krautwald
+- [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) — Andre Staltz
+- [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) — Andre Medeiros
+- [Deep dive into the murky waters of script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/) - Jake Archibald
+- [UMD: JavaScript modules that run anywhere](http://bob.yexley.net/umd-javascript-that-runs-anywhere/) — Bob Yexley
 - [Gettings started with Babel and Node](http://derpturkey.com/gettings-started-with-babel-and-node/) — Brian Mancini
 - [Practical workflows for ES6 modules](http://guybedford.com/practical-workflows-for-es6-modules) — Guy Bedford
-- [UMD: JavaScript modules that run anywhere](http://bob.yexley.net/umd-javascript-that-runs-anywhere/) — Bob Yexley
+- [Writing client-side ES6 with Webpack](http://www.2ality.com/2015/04/webpack-es6.html)  — Axel Rauschmayer
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/) — Addy Osmani
+- [How To Debug RxJS Code](http://staltz.com/how-to-debug-rxjs-code.html) — Andre Staltz
+- [Writing Marble Tests (for RxJS)](https://github.com/ReactiveX/RxJS/blob/master/doc/writing-marble-tests.md) — Andre Staltz et al.
 - [Webpack How-To](https://github.com/petehunt/webpack-howto#) — Pete Hunt
-- [Deep dive into the murky waters of script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/) - Jake Archibald
+- [Browserify vs Webpack](https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9) — Cory House
+- [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - Keith Cirkel
 - [Must-See JavaScript Dev Tools That Put Other Dev Tools to Shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.wa98ymcnm) — Eric Elliot
-- [How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620) — Eric Elliott
-- [The Heart & Soul of Prototypal OO: Concatenative Inheritance](https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819) — Eric Elliott
-- [JavaScript At Scale — Achieving High Velocity](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03) — Kurtis Kemple
-- [What are the best Angular.js alternatives?](http://www.slant.co/topics/4306/~angular-js-alternatives)
-- [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) — Andre Staltz
-- [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) — Andre Medeiros
-- [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) — Andre Staltz
-- [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
-- [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872#.3z4b8lsqj) — Frederik Krautwald
 - [Exploring how components can be created in several frameworks.](https://github.com/Mercateo/component-check)
+- [What are the best Angular.js alternatives?](http://www.slant.co/topics/4306/~angular-js-alternatives)
+- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) — Eric Elliott
+- [JavaScript At Scale — Achieving High Velocity](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03) — Kurtis Kemple
 - [Benchmarks: Virtual DOM vs Angular vs Mithril.js vs ...](https://goo.gl/jp5C66)
 
 ## Websites
@@ -60,6 +69,7 @@
 - [Eric Elliott](https://github.com/ericelliott/)
 - [Douglas Crockford](http://www.crockford.com/)
 - [Eris Krauss](https://thesocietea.org/)
+- [ReactiveX](https://reactivex.io)
 
 ## Coding style & conventions
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js) — Rick Waldron
@@ -136,6 +146,9 @@
 - [Reactive Extensions](http://reactivex.io/) for [JavaScript (RxJS)](https://github.com/Reactive-Extensions/RxJS)
 
   ReactiveX is a combination of the best ideas from the Observer pattern, the Iterator pattern, and functional programming
+
+  - [RxJS v5 Beta](https://github.com/ReactiveX/rxjs)
+
 
 - [ReactJS](https://facebook.github.io/react/) - A JavaScript library for building user interfaces
 
