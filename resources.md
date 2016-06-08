@@ -8,8 +8,12 @@
 ## Books
 - _JavaScript: The Good Parts_ — Douglas Crockford
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) — Eric Elliot
+- _Effective JavaScript_ — David Herman
+- [Eloquent Javascript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf) — Marijn Haverbeke
 - _Understanding ECMAScript 6_ — Nicholas C. Zakos
+- _Functional Programming in JavaScript_ — Dan Mantyla
 - _[RxJS: Javascript library for functional reactive programming](https://xgrommx.github.io/rx-book/index.html)_ — Dennis Stoyanov
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Free JavaScript books online](http://jsbooks.revolunet.com/)
 
 ## Videos
@@ -18,6 +22,7 @@
 - [Introduction to Reactive Programming w/ RxJS](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
 - [Beyond the DOM: How Netflix uses ReactJS](https://www.youtube.com/watch?v=eNC0mRYGWgc)
 - [Overview of Cycle.js (RxJS)](https://egghead.io/lessons/rxjs-overview-of-cycle-js)
+- [Learning Functional JavaScript](https://player.oreilly.com/videos/9781785287800) — Christian Johansen
 - [Debugging Promises with DevTools, Totally Tooling Tips (S1, Ep2)](https://www.youtube.com/watch?v=o9c3U5_8tGY) — Google Developers
 
 ## Articles
@@ -31,6 +36,7 @@
 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) (MDN tutorial)
 - [The Heart & Soul of Prototypal OO: Concatenative Inheritance](https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819) — Eric Elliott
 - [Prototypical inheritance done right](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/) — Oliver Caldwell
+- [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9) — Eric Elliott
 - [Explaining JavaScript scope and closures](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/) — Robert Nyman
 - [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) — Andre Staltz
 - [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
@@ -51,8 +57,10 @@
 - [Practical workflows for ES6 modules](http://guybedford.com/practical-workflows-for-es6-modules) — Guy Bedford
 - [Writing client-side ES6 with Webpack](http://www.2ality.com/2015/04/webpack-es6.html)  — Axel Rauschmayer
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/) — Addy Osmani
+- [Don’t Be Scared Of Functional Programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/) — Jonathon Morgan
 - [How To Debug RxJS Code](http://staltz.com/how-to-debug-rxjs-code.html) — Andre Staltz
 - [Writing Marble Tests (for RxJS)](https://github.com/ReactiveX/RxJS/blob/master/doc/writing-marble-tests.md) — Andre Staltz et al.
+- [RxJS Testing in Real World Applications](https://blog.hyphe.me/rxjs-testing-in-real-world-applications/) — Simon Jentsch
 - [Webpack How-To](https://github.com/petehunt/webpack-howto#) — Pete Hunt
 - [Browserify vs Webpack](https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9) — Cory House
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - Keith Cirkel
