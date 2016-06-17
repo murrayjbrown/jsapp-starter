@@ -19,8 +19,10 @@
 ## Videos
 - [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)  — Douglass Crockford
 - [Javascript: The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) ([shorter version](https://www.youtube.com/watch?v=PSGEjv3Tqo0)) — Douglass Crockford
-- [Introduction to Reactive Programming w/ RxJS](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
 - [Beyond the DOM: How Netflix uses ReactJS](https://www.youtube.com/watch?v=eNC0mRYGWgc)
+- [React + Redux + Webpack (tutorial series)](https://www.youtube.com/watch?v=fZKaq623y38&list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg) — Kurt Weiberth
+- [Redux: Simplifying Application State in JavaScript](https://www.youtube.com/watch?v=okdC5gcD-dM) — Tim Griesser
+- [Introduction to Reactive Programming w/ RxJS](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
 - [Overview of Cycle.js (RxJS)](https://egghead.io/lessons/rxjs-overview-of-cycle-js)
 - [Learning Functional JavaScript](https://player.oreilly.com/videos/9781785287800) — Christian Johansen
 - [Debugging Promises with DevTools, Totally Tooling Tips (S1, Ep2)](https://www.youtube.com/watch?v=o9c3U5_8tGY) — Google Developers
@@ -38,6 +40,7 @@
 - [Prototypical inheritance done right](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/) — Oliver Caldwell
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9) — Eric Elliott
 - [Explaining JavaScript scope and closures](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/) — Robert Nyman
+- [Flux: An Application Architecture for React](https://facebook.github.io/flux/docs/overview.html)
 - [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) — Andre Staltz
 - [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
 
@@ -51,6 +54,7 @@
 - [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872#.3z4b8lsqj) — Frederik Krautwald
 - [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) — Andre Staltz
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) — Andre Medeiros
+- [History and Background of JavaScript Module Loaders](http://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/?programming) — Elias Carlston
 - [Deep dive into the murky waters of script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/) - Jake Archibald
 - [UMD: JavaScript modules that run anywhere](http://bob.yexley.net/umd-javascript-that-runs-anywhere/) — Bob Yexley
 - [Gettings started with Babel and Node](http://derpturkey.com/gettings-started-with-babel-and-node/) — Brian Mancini
@@ -114,9 +118,9 @@
 
 - [npm](https://www.npmjs.com/) Node package manager
 
-- [browserify](http://browserify.org/) script bundler
+- [browserify](http://browserify.org/) script/module bundler
 
-- [webpack](https://webpack.github.io/) script bundler
+- [webpack](https://webpack.github.io/) script/module bundler
 
 - [jspm](http://jspm.io/) package manager
 
@@ -147,6 +151,10 @@
 
   Create objects from reusable, composable behaviors. Stampit uses three different kinds of prototypal OO to let you inherit behavior in a way that is much more powerful and flexible than classical OO.
 
+    - [Composables for React](https://github.com/stampit-org/react-stamp)
+    - [Universal Routing & Rendering with React & Redux](https://github.com/keystonejs/react-easy-universal)
+
+
 - [SystemJS](https://github.com/systemjs/systemjs) dynamic loader
 
   Universal dynamic module loader - loads ES6 modules, AMD, CommonJS and global scripts in the browser and NodeJS. Works with both Traceur and Babel.
@@ -173,10 +181,11 @@
      data binding.
 
   Add-ons:
-  - [Cycle-React](https://github.com/pH200/cycle-react) - Rx functional interface to Facebook's React
+  - [react-easy-universal](https://github.com/keystonejs/react-easy-universal) - Universal Routing & Rendering with React & Redux
   - [React-Hyperscript](https://github.com/mlmorg/react-hyperscript) - Markup functions (avoid JSX transpiling)
   - [React-Redux](https://github.com/reactjs/redux) - A predictable state container for JavaScript apps.
   - [React-Canvas](https://github.com/Flipboard/react-canvas) - High performance canvas rendering
+  - [Cycle-React](https://github.com/pH200/cycle-react) - Rx functional interface to Facebook's React
   - [Akkad](https://github.com/brochington/Akkad) - A WebGL React target that utilizes the Babylon.js library
 
 ## MV* Frameworks
@@ -229,6 +238,13 @@
 - [lichess](https://github.com/ornicar/lila) - Online chess game ([live](http://en.lichess.org/))
 
 - [flarum](https://github.com/flarum/flarum) -  Forms made simple ([live](http://flarum.org/))
+
+### [Redux](http://redux.js.org/)
+
+Redux is a predictable state container for JavaScript apps: Single source of truth; State is read-only; Changes are made with pure functions.
+
+- [redux-rx](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
+- [rx-redux](https://github.com/jas-chen/rx-redux) - reimplementation of redux using RxJS.
 
 ## Transpiler languages
 
