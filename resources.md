@@ -20,6 +20,7 @@
 - [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)  — Douglass Crockford
 - [Javascript: The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) ([shorter version](https://www.youtube.com/watch?v=PSGEjv3Tqo0)) — Douglass Crockford
 - [Beyond the DOM: How Netflix uses ReactJS](https://www.youtube.com/watch?v=eNC0mRYGWgc)
+- [Choosing a JavaScript Framework](https://vimeo.com/170598656) — Rob Eisenberg
 - [React + Redux + Webpack (tutorial series)](https://www.youtube.com/watch?v=fZKaq623y38&list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg) — Kurt Weiberth
 - [Redux: Simplifying Application State in JavaScript](https://www.youtube.com/watch?v=okdC5gcD-dM) — Tim Griesser
 - [Introduction to Reactive Programming w/ RxJS](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
@@ -42,16 +43,19 @@
 - [Explaining JavaScript scope and closures](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/) — Robert Nyman
 - [Flux: An Application Architecture for React](https://facebook.github.io/flux/docs/overview.html)
 - [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) — Andre Staltz
+- [Client-side Microservice Frameworks](http://www.pixability.com/tech-blog/client-side-microservice-frameworks/) — Pete Martin
 - [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
 
 ### Additional material
 - [How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620) — Eric Elliott
+- [ES6 for Humans](https://github.com/metagrover/ES6-for-humans) — Deepak Grover
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) — Axel Rauschmayer
 - [JavaScript: Shim vs Polyfill](http://blog.respoke.io/post/111278536998/javascript-shim-vs-polyfill) — Tian Davis
 - [JavaScript Classes and Instantiation Patterns](http://www.ryanatkinson.io/javascript-instantiation-patterns/) — Ryan Atkinson
 - [JavaScript Promises: There and back again](http://www.html5rocks.com/en/tutorials/es6/promises/) — Jake Archibald
 - [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) — Eric Elliott
 - [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872#.3z4b8lsqj) — Frederik Krautwald
+- [The Taxonomy of Reactive Programming](https://dzone.com/articles/the-taxonomy-of-reactive-programming-1) — Victor Savkin
 - [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) — Andre Staltz
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) — Andre Medeiros
 - [History and Background of JavaScript Module Loaders](http://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/?programming) — Elias Carlston
@@ -61,6 +65,8 @@
 - [Practical workflows for ES6 modules](http://guybedford.com/practical-workflows-for-es6-modules) — Guy Bedford
 - [Writing client-side ES6 with Webpack](http://www.2ality.com/2015/04/webpack-es6.html)  — Axel Rauschmayer
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/) — Addy Osmani
+- [Jspm vs Webpack](http://ilikekillnerds.com/2015/07/jspm-vs-webpack/) — Dwayne Charrington
+- [Getting Started With jspm & SystemJS](https://medium.com/@swirlycheetah/getting-started-with-jspm-systemjs-d6f2560b7eb4#.zb6x9tlnh) — Chris Wheatley
 - [Don’t Be Scared Of Functional Programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/) — Jonathon Morgan
 - [How To Debug RxJS Code](http://staltz.com/how-to-debug-rxjs-code.html) — Andre Staltz
 - [Writing Marble Tests (for RxJS)](https://github.com/ReactiveX/RxJS/blob/master/doc/writing-marble-tests.md) — Andre Staltz et al.
@@ -165,8 +171,11 @@
 
   - [RxJS v5 Beta](https://github.com/ReactiveX/rxjs)
 
+## View Rendering
+### [ReactJS](https://facebook.github.io/react/)
+A JavaScript library for building user interfaces
 
-- [ReactJS](https://facebook.github.io/react/) - A JavaScript library for building user interfaces
+**NOTE:** [Grant of Patent Rights clause in license](https://github.com/facebook/react/blob/master/PATENTS)
 
   - JUST THE UI: Lots of people use React as the V in MVC.
      Since React makes no assumptions about the rest of your technology
@@ -187,6 +196,10 @@
   - [React-Canvas](https://github.com/Flipboard/react-canvas) - High performance canvas rendering
   - [Cycle-React](https://github.com/pH200/cycle-react) - Rx functional interface to Facebook's React
   - [Akkad](https://github.com/brochington/Akkad) - A WebGL React target that utilizes the Babylon.js library
+
+### [Riot](http://riotjs.com/)
+A React-like user interface micro-library
+
 
 ## MV* Frameworks
 
@@ -245,6 +258,10 @@ Redux is a predictable state container for JavaScript apps: Single source of tru
 
 - [redux-rx](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
 - [rx-redux](https://github.com/jas-chen/rx-redux) - reimplementation of redux using RxJS.
+
+### [RiotControl](https://github.com/jimsparkman/RiotControl)
+
+A simplistic central event controller/dispatcher for *Riot,* inspired by Facebook's Flux design pattern.
 
 ## Transpiler languages
 
