@@ -1,10 +1,13 @@
 # JavaScript Resources
 
+A non-exaustive list of usefull JavaScript programming and application development resources.
+
 ## Lists
 - [Douglas Crockford's links](http://www.crockford.com/javascript/)
 - [Eric Elliott's essential links](https://github.com/ericelliott/essential-javascript-links)
 - [ReactiveX tutorial resources](http://reactivex.io/tutorials.html)
 - [Awesome Redux](https://porter.io/github.com/xgrommx/awesome-redux)
+- [Awesome ESLint](https://github.com/dustinspecker/awesome-eslint)
 
 ## Books
 - _JavaScript: The Good Parts_ — Douglas Crockford
@@ -20,41 +23,47 @@
 ## Videos / Slides
 - [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)  — Douglass Crockford
 - [Javascript: The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) ([shorter version](https://www.youtube.com/watch?v=PSGEjv3Tqo0)) — Douglass Crockford
+- [React + Redux + Webpack (tutorial series)](https://www.youtube.com/watch?v=fZKaq623y38&list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg) — Kurt Weiberth
+- [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) — Dan Abramov
+- [Redux: Simplifying Application State in JavaScript](https://www.youtube.com/watch?v=okdC5gcD-dM) — Tim Griesser
+- [Using Immutable JS with React](https://www.youtube.com/watch?v=YFP8lbdZ0cs) — Lee Byron
+- [Building React Applications with Redux](https://www.youtube.com/watch?v=TWpMwKP4Hdk) — Yuri Takhteyev
+- [Better Functional Architecture with Redux](https://www.youtube.com/watch?v=RtqWK6lMI5U) — Yuri Takhteyev
+- [Introduction to Reactive Programming](http://slides.com/kumartarun/reactive-programming) — Tyson Thomas
+- [Introduction to Reactive Programming w/ RxJS](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming) — André Staltz
+- [Bringing Observable Data to React](https://www.youtube.com/watch?v=wC6BKH4JyO4) — Andrew Imm
+- [Learning Functional JavaScript](https://player.oreilly.com/videos/9781785287800) — Christian Johansen
 - [Beyond the DOM: How Netflix uses ReactJS](https://www.youtube.com/watch?v=eNC0mRYGWgc)
 - [Choosing a JavaScript Framework](https://vimeo.com/170598656) — Rob Eisenberg
-- [React + Redux + Webpack (tutorial series)](https://www.youtube.com/watch?v=fZKaq623y38&list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg) — Kurt Weiberth
-- [Redux: Simplifying Application State in JavaScript](https://www.youtube.com/watch?v=okdC5gcD-dM) — Tim Griesser
-- [Introduction to Reactive Programming w/ RxJS](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
-- [Overview of Cycle.js (RxJS)](https://egghead.io/lessons/rxjs-overview-of-cycle-js)
-- [Learning Functional JavaScript](https://player.oreilly.com/videos/9781785287800) — Christian Johansen
-- [Introduction to Reactive Programming](http://slides.com/kumartarun/reactive-programming) — Tyson Thomas
+- [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs) — Dan Abramov
 - [Debugging Promises with DevTools, Totally Tooling Tips (S1, Ep2)](https://www.youtube.com/watch?v=o9c3U5_8tGY) — Google Developers
+- [Overview of Cycle.js (RxJS)](https://egghead.io/lessons/rxjs-overview-of-cycle-js)
 
 ## Articles
 
 ### Essential reading
-- [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) — Eric Elliott
 - [The World's Most Misunderstood Programming Language Has Become the World's Most Popular Programming Language](http://javascript.crockford.com/popular.html) — Douglass Crockford
 - [Douglas Crockford speaks about the new good parts of JavaScript in 2014](http://bdadam.com/blog/video-douglas-crockford-about-the-new-good-parts.html) — Adam Beres-Deak
-- [Common Misconceptions about Inheritance in Javascript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.l4aoueqpc) — Eric Elliott
 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) (MDN tutorial)
 - [ES6 for Humans](https://github.com/metagrover/ES6-for-humans) — Deepak Grover
+- [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) — Eric Elliott
+- [Common Misconceptions about Inheritance in Javascript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.l4aoueqpc) — Eric Elliott
 - [Prototypal Programming in Javascript](https://thesocietea.org/2015/08/prototypal-programming-in-javascript/) — Aaron Krauss
 - [Prototypical inheritance done right](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/) — Oliver Caldwell
 - [The Heart & Soul of Prototypal OO: Concatenative Inheritance](https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819) — Eric Elliott
+- [Fun with Stamps](https://medium.com/@koresar/fun-with-stamps-episode-1-stamp-basics-e0627d81efe0) — Vasyl Boroviak
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9) — Eric Elliott
 - [An Introduction To JavaScript ES6 Modules](https://strongloop.com/strongblog/an-introduction-to-javascript-es6-modules/) — Alex Gorbatchev
 - [Explaining JavaScript scope and closures](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/) — Robert Nyman
 - [Don’t Be Scared Of Functional Programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/) — Jonathon Morgan
 - [The Taxonomy of Reactive Programming](https://dzone.com/articles/the-taxonomy-of-reactive-programming-1) — Victor Savkin
 - [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) — Andre Staltz
-- [Fun with Stamps](https://medium.com/@koresar/fun-with-stamps-episode-1-stamp-basics-e0627d81efe0) — Vasyl Boroviak
 - [Client-side Microservice Frameworks](http://www.pixability.com/tech-blog/client-side-microservice-frameworks/) — Pete Martin
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) — Andre Medeiros
 - [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) — Andre Staltz
 - [Flux: An Application Architecture for React](https://facebook.github.io/flux/docs/overview.html)
 - [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros) — Yang-Hsing Lin & Yi-Jirr Chen
-- [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
+- [Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9) — Eric Elliott
 - [Skills JavaScript Developers Should Learn in 2016](https://www.codementor.io/learn-programming/javascript-trends-skills-developers-should-learn) — Yi-Jirr Chen
 
 ### Additional material
@@ -65,6 +74,7 @@
 - [JavaScript Classes and Instantiation Patterns](http://www.ryanatkinson.io/javascript-instantiation-patterns/) — Ryan Atkinson
 - [JavaScript Promises: There and back again](http://www.html5rocks.com/en/tutorials/es6/promises/) — Jake Archibald
 - [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) — Eric Elliott
+- [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
 - [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872#.3z4b8lsqj) — Frederik Krautwald
 - [Functional Concepts For JavaScript Developers: Currying](https://blog.simpleblend.net/functional-javascript-concepts-currying/) — Andrew Robbins
 - [How To Debug RxJS Code](http://staltz.com/how-to-debug-rxjs-code.html) — Andre Staltz
@@ -79,12 +89,14 @@
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/) — Addy Osmani
 - [Jspm vs Webpack](http://ilikekillnerds.com/2015/07/jspm-vs-webpack/) — Dwayne Charrington
 - [Getting Started With jspm & SystemJS](https://medium.com/@swirlycheetah/getting-started-with-jspm-systemjs-d6f2560b7eb4#.zb6x9tlnh) — Chris Wheatley
-- [Webpack How-To](https://github.com/petehunt/webpack-howto#) — Pete Hunt
+- [Webpack How-To](https://github.com/petehunt/webpack-howto) — Pete Hunt
 - [Browserify vs Webpack](https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9) — Cory House
+- [Webpack: The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.r6q4dk27h) — Raja Rao
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - Keith Cirkel
+- [How to build your Own NPM package](https://www.freelancer.com/community/articles/how-to-build-your-own-npm-package) — Greg Bogdan
+- [Why I use TapeInstead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.feekx44qo) — Eric Elliott
 - [Must-See JavaScript Dev Tools That Put Other Dev Tools to Shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.wa98ymcnm) — Eric Elliot
 - [You don't (may not) need Lodash/Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) — Robert Chang
-- [Exploring how components can be created in several frameworks.](https://github.com/Mercateo/component-check)
 - [What are the best Angular.js alternatives?](http://www.slant.co/topics/4306/~angular-js-alternatives)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) — Eric Elliott
 - [JavaScript At Scale — Achieving High Velocity](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03) — Kurtis Kemple
@@ -97,6 +109,18 @@
 - [Douglas Crockford](http://www.crockford.com/)
 - [Eris Krauss](https://thesocietea.org/)
 - [ReactiveX](https://reactivex.io)
+
+## Learning by example
+- [Exploring how components can be created in several frameworks.](https://github.com/Mercateo/component-check)
+- [Todo MVC](http://todomvc.com/)
+- [Todo React Redux](https://github.com/r-park/todo-react-redux)
+- [Redux tutorial](https://github.com/happypoulp/redux-tutorial)
+- [React Baby Steps](https://github.com/RisingStack/react-baby-steps)
+- [Universal React Boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate)
+- [React Redux RxJS Universal Starter Kit](https://github.com/nathanvale/react-redux-rxjs-universal-starter-kit)
+- [Alternative ways to define React Components](https://gist.github.com/jquense/47bbd2613e0b03d7e51c)
+- [Behavior Driven Composition w/ Stamps](https://github.com/troutowicz/bdc)
+
 
 ## Coding style & conventions
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js) — Rick Waldron
@@ -199,10 +223,11 @@ A JavaScript library for building user interfaces
      data binding.
 
   Add-ons:
-  - [react-easy-universal](https://github.com/keystonejs/react-easy-universal) - Universal Routing & Rendering with React & Redux
+  - [React-Easy-Universal](https://github.com/keystonejs/react-easy-universal) - Universal Routing & Rendering with React & Redux
   - [React-Hyperscript](https://github.com/mlmorg/react-hyperscript) - Markup functions (avoid JSX transpiling)
-  - [React-Redux](https://github.com/reactjs/redux) - A predictable state container for JavaScript apps.
   - [React-Canvas](https://github.com/Flipboard/react-canvas) - High performance canvas rendering
+  - [React-Redux](https://github.com/reactjs/redux) - A predictable state container for JavaScript apps.
+  - [React-Observable-Subscribe](https://github.com/jayphelps/react-observable-subscribe) - consume observables declaratively in React JSX
   - [Cycle-React](https://github.com/pH200/cycle-react) - Rx functional interface to Facebook's React
   - [Akkad](https://github.com/brochington/Akkad) - A WebGL React target that utilizes the Babylon.js library
 
@@ -265,9 +290,10 @@ A React-like user interface micro-library
 
 Redux is a predictable state container for JavaScript apps: Single source of truth; State is read-only; Changes are made with pure functions.
 
+- [redux-devtools](https://github.com/dustinspecker/awesome-eslint) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS 5-based middleware for Redux. Compose and cancel async actions and more.
 - [redux-rx](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
-- [rx-redux](https://github.com/jas-chen/rx-redux) - reimplementation of redux using RxJS.
+
 
 ### [RiotControl](https://github.com/jimsparkman/RiotControl)
 
@@ -298,3 +324,8 @@ A simplistic central event controller/dispatcher for *Riot,* inspired by Faceboo
 Full web stack; No browser required. PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
 
 - [Create WebPage Screenshots with Node.js and PhantomJS](https://davidwalsh.name/get-webpage-screenshot) — David Walsh
+
+## Copyright & license
+
+Copyright (c) 2016 Murray J Brown.
+[This work](./resources.md) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
