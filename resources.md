@@ -63,6 +63,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Step by Step Guide To Building React Redux Apps](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a) — Raja Rao
 - [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a) — Raja Rao
 - [Middlewares And React Redux Life Cycle](https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6) — Raja Rao
+- [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) — Eric Elliott
 - [Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9) — Eric Elliott
 - [Skills JavaScript Developers Should Learn in 2016](https://www.codementor.io/learn-programming/javascript-trends-skills-developers-should-learn) — Yi-Jirr Chen
 - [A Beginners Guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460) — Nader Dabit
@@ -78,6 +79,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [JavaScript Classes and Instantiation Patterns](http://www.ryanatkinson.io/javascript-instantiation-patterns/) — Ryan Atkinson
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9) — Eric Elliott
 - [JavaScript Promises: There and back again](http://www.html5rocks.com/en/tutorials/es6/promises/) — Jake Archibald
+- [Untangling Deeply-Nested Promise Chains](https://philipwalton.com/articles/untangling-deeply-nested-promise-chains/) — Philip Walton
 - [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) — Eric Elliott
 - [React Guide: Props vs State](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md) — Ovidiu Cherecheș et al.
 - [Functional Concepts For JavaScript Developers: Currying](https://blog.simpleblend.net/functional-javascript-concepts-currying/) — Andrew Robbins
