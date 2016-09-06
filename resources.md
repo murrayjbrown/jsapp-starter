@@ -41,55 +41,70 @@ A non-exhaustive list of useful JavaScript programming and application developme
 
 ## Articles
 
-### Essential reading
+### JavaScript language
+
 - [The World's Most Misunderstood (yet popular) Programming Language](http://javascript.crockford.com/popular.html) — Douglass Crockford
 - [Douglas Crockford speaks about the new good parts of JavaScript in 2014](http://bdadam.com/blog/video-douglas-crockford-about-the-new-good-parts.html) — Adam Beres-Deak
 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) (MDN tutorial)
+- [How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620) — Eric Elliott
 - [ES6 for Humans](https://github.com/metagrover/ES6-for-humans) — Deepak Grover
+- [An Introduction To JavaScript ES6 Modules](https://strongloop.com/strongblog/an-introduction-to-javascript-es6-modules/) — Alex Gorbatchev
+- [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) — Axel Rauschmayer
+- [Common Misconceptions about Inheritance in Javascript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.l4aoueqpc) — Eric Elliott
+- [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9) — Eric Elliott
+- [Explaining JavaScript scope and closures](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/) — Robert Nyman
+- [JavaScript: Shim vs Polyfill](http://blog.respoke.io/post/111278536998/javascript-shim-vs-polyfill) — Tian Davis
+- [Practical workflows for ES6 modules](http://guybedford.com/practical-workflows-for-es6-modules) — Guy Bedford
+- [Is “Class” In ES6 The New “Bad” Part?](https://medium.com/@rajaraodv/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65) — Raja Rao
+- [JavaScript Promises: There and back again](http://www.html5rocks.com/en/tutorials/es6/promises/) — Jake Archibald
+- [Untangling Deeply-Nested Promise Chains](https://philipwalton.com/articles/untangling-deeply-nested-promise-chains/) — Philip Walton
+
+### JavaScript programming paradigms
+
 - [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) — Eric Elliott
 - [Prototypal Programming in Javascript](https://thesocietea.org/2015/08/prototypal-programming-in-javascript/) — Aaron Krauss
 - [The Heart & Soul of Prototypal OO: Concatenative Inheritance](https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819) — Eric Elliott
-- [Fun with Stamps](https://medium.com/@koresar/fun-with-stamps-episode-1-stamp-basics-e0627d81efe0) — Vasyl Boroviak
-- [An Introduction To JavaScript ES6 Modules](https://strongloop.com/strongblog/an-introduction-to-javascript-es6-modules/) — Alex Gorbatchev
-- [Explaining JavaScript scope and closures](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/) — Robert Nyman
+- [Prototypical inheritance done right](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/) — Oliver Caldwell
+- [JavaScript Classes and Instantiation Patterns](http://www.ryanatkinson.io/javascript-instantiation-patterns/) — Ryan Atkinson
+- [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) — Eric Elliott
 - [Don’t Be Scared Of Functional Programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/) — Jonathon Morgan
+- [Functional Concepts For JavaScript Developers: Currying](https://blog.simpleblend.net/functional-javascript-concepts-currying/) — Andrew Robbins
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) — Hemanth.HM
+- [Master the JavaScript Interview: What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.av36tzo63) — Eric Elliott
 - [The Taxonomy of Reactive Programming](https://dzone.com/articles/the-taxonomy-of-reactive-programming-1) — Victor Savkin
 - [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) — Andre Staltz
-- [Client-side Microservice Frameworks](http://www.pixability.com/tech-blog/client-side-microservice-frameworks/) — Pete Martin
+- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) — Eric Elliott
+
+### JavaScript architecture & design patterns
+- [Fun with Stamps](https://medium.com/@koresar/fun-with-stamps-episode-1-stamp-basics-e0627d81efe0) — Vasyl Boroviak
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) — Andre Medeiros
 - [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) — Andre Staltz
 - [Flux: An Application Architecture for React](https://facebook.github.io/flux/docs/overview.html)
-- [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros) — Yang-Hsing Lin & Yi-Jirr Chen
-- [Step by Step Guide To Building React Redux Apps](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a) — Raja Rao
-- [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a) — Raja Rao
-- [Middlewares And React Redux Life Cycle](https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6) — Raja Rao
-- [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) — Eric Elliott
 - [Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9) — Eric Elliott
 - [Skills JavaScript Developers Should Learn in 2016](https://www.codementor.io/learn-programming/javascript-trends-skills-developers-should-learn) — Yi-Jirr Chen
 - [A Beginners Guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460) — Nader Dabit
 
-### Additional material
-- [How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620) — Eric Elliott
-- [JavaScript: Shim vs Polyfill](http://blog.respoke.io/post/111278536998/javascript-shim-vs-polyfill) — Tian Davis
-- [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) — Axel Rauschmayer
-- [Practical workflows for ES6 modules](http://guybedford.com/practical-workflows-for-es6-modules) — Guy Bedford
-- [Is “Class” In ES6 The New “Bad” Part?](https://medium.com/@rajaraodv/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65) — Raja Rao
-- [Common Misconceptions about Inheritance in Javascript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.l4aoueqpc) — Eric Elliott
-- [Prototypical inheritance done right](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/) — Oliver Caldwell
-- [JavaScript Classes and Instantiation Patterns](http://www.ryanatkinson.io/javascript-instantiation-patterns/) — Ryan Atkinson
-- [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9) — Eric Elliott
-- [JavaScript Promises: There and back again](http://www.html5rocks.com/en/tutorials/es6/promises/) — Jake Archibald
-- [Untangling Deeply-Nested Promise Chains](https://philipwalton.com/articles/untangling-deeply-nested-promise-chains/) — Philip Walton
-- [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) — Eric Elliott
+### JavaScript frameworks & libraries
+
+- [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros) — Yang-Hsing Lin & Yi-Jirr Chen
+- [Step by Step Guide To Building React Redux Apps](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a) — Raja Rao
+- [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a) — Raja Rao
 - [React Guide: Props vs State](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md) — Ovidiu Cherecheș et al.
-- [Functional Concepts For JavaScript Developers: Currying](https://blog.simpleblend.net/functional-javascript-concepts-currying/) — Andrew Robbins
-- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) — Hemanth.HM
-- [How To Debug RxJS Code](http://staltz.com/how-to-debug-rxjs-code.html) — Andre Staltz
+- [How I learned to stop worrying and love the JSX](http://jamesknelson.com/learned-stop-worrying-love-jsx/) — James K Nelson
+- [Middlewares And React Redux Life Cycle](https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6) — Raja Rao
+- [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) — Eric Elliott
+- [Optimising React Rendering](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae) — Anton Lavrenov
 - [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872#.3z4b8lsqj) — Frederik Krautwald
 - [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
-- [Writing Marble Tests (for RxJS)](https://github.com/ReactiveX/RxJS/blob/master/doc/writing-marble-tests.md) — Andre Staltz et al.
-- [RxJS Testing in Real World Applications](https://blog.hyphe.me/rxjs-testing-in-real-world-applications/) — Simon Jentsch
-- [How I learned to stop worrying and love the JSX](http://jamesknelson.com/learned-stop-worrying-love-jsx/) — James K Nelson
+- [Client-side Microservice Frameworks](http://www.pixability.com/tech-blog/client-side-microservice-frameworks/) — Pete Martin
+- [You don't (may not) need Lodash/Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) — Robert Chang
+- [What are the best Angular.js alternatives?](http://www.slant.co/topics/4306/~angular-js-alternatives)
+- [Writing a JavaScript framework](https://blog.risingstack.com/writing-a-javascript-framework-project-structuring/) — Bertalan Miklos
+- [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.gs0qh4ld7) — Eric Elliott
+
+### JavaScript development
+
+- [Must-See JavaScript Dev Tools That Put Other Dev Tools to Shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.wa98ymcnm) — Eric Elliot
 - [History and Background of JavaScript Module Loaders](http://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/?programming) — Elias Carlston
 - [Deep dive into the murky waters of script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/) - Jake Archibald
 - [UMD: JavaScript modules that run anywhere](http://bob.yexley.net/umd-javascript-that-runs-anywhere/) — Bob Yexley
@@ -105,16 +120,19 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Hot-reloading in 2015 using React + RequireJS](https://medium.com/@the1mills/hot-reloading-with-react-requirejs-7b2aa6cb06e1) — Alexander Mills
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - Keith Cirkel
 - [How to build your Own NPM package](https://www.freelancer.com/community/articles/how-to-build-your-own-npm-package) — Greg Bogdan
+
+### JavaScript debugging & testing
+
+- [How To Debug RxJS Code](http://staltz.com/how-to-debug-rxjs-code.html) — Andre Staltz
+- [Writing Marble Tests (for RxJS)](https://github.com/ReactiveX/RxJS/blob/master/doc/writing-marble-tests.md) — Andre Staltz et al.
+- [RxJS Testing in Real World Applications](https://blog.hyphe.me/rxjs-testing-in-real-world-applications/) — Simon Jentsch
 - [Why I use Tape instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.feekx44qo) — Eric Elliott
-- [Must-See JavaScript Dev Tools That Put Other Dev Tools to Shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.wa98ymcnm) — Eric Elliot
-- [You don't (may not) need Lodash/Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) — Robert Chang
-- [What are the best Angular.js alternatives?](http://www.slant.co/topics/4306/~angular-js-alternatives)
-- [Writing a JavaScript framework](https://blog.risingstack.com/writing-a-javascript-framework-project-structuring/) — Bertalan Miklos
-- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) — Eric Elliott
+
+### JavaScript performance
+
 - [JavaScript At Scale — Achieving High Velocity](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03) — Kurtis Kemple
 - [Benchmarks: Virtual DOM vs Angular vs Mithril.js vs ...](https://goo.gl/jp5C66)
-- [Optimising React Rendering](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae) — Anton Lavrenov
-- [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.gs0qh4ld7) — Eric Elliott
+
 
 ## Websites
 - [JavasScript: Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
