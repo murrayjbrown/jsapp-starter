@@ -23,6 +23,8 @@ A non-exhaustive list of useful JavaScript programming and application developme
 ## Videos / Slides
 - [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)  — Douglass Crockford
 - [Javascript: The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) ([shorter version](https://www.youtube.com/watch?v=PSGEjv3Tqo0)) — Douglass Crockford
+- [Crockford on Javascript: Functions](https://www.youtube.com/watch?v=lVnnxfdLdlM) — Douglass Crockford
+- [Monads and Gonads (Concurrency)](https://www.youtube.com/watch?v=b0EF0VTs9Dc) — Douglass Crockford
 - [React + Redux + Webpack (tutorial series)](https://www.youtube.com/watch?v=fZKaq623y38&list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg) — Kurt Weiberth
 - [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) — Dan Abramov
 - [Redux: Simplifying Application State in JavaScript](https://www.youtube.com/watch?v=okdC5gcD-dM) — Tim Griesser
@@ -73,6 +75,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Master the JavaScript Interview: What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.av36tzo63) — Eric Elliott
 - [The Taxonomy of Reactive Programming](https://dzone.com/articles/the-taxonomy-of-reactive-programming-1) — Victor Savkin
 - [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) — Andre Staltz
+- [Partitioning RxJS streams: adventures in nested Observables with groupBy() and flatMap()](http://www.g9labs.com/2016/02/17/partitioning-rxjs-streams-adventures-in-nested-observables-with-groupby-and-flatmap/) — Andrew Hao
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) — Eric Elliott
 
 ### JavaScript architecture & design patterns
