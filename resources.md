@@ -92,11 +92,15 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros) — Yang-Hsing Lin & Yi-Jirr Chen
 - [Step by Step Guide To Building React Redux Apps](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a) — Raja Rao
 - [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a) — Raja Rao
+- [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/) — Péter Márton
+- [Building Applications with React and Redux in ES6](https://zombiecodekill.com/2016/05/21/building-applications-with-react-and-redux-in-es6/) — Cory House
 - [React Guide: Props vs State](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md) — Ovidiu Cherecheș et al.
 - [How I learned to stop worrying and love the JSX](http://jamesknelson.com/learned-stop-worrying-love-jsx/) — James K Nelson
 - [Middlewares And React Redux Life Cycle](https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6) — Raja Rao
+- [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) — Tero Parviainen
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) — Eric Elliott
 - [Optimising React Rendering](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae) — Anton Lavrenov
+- [redux-observable](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52) — Ben Lesh
 - [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872#.3z4b8lsqj) — Frederik Krautwald
 - [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
 - [Client-side Microservice Frameworks](http://www.pixability.com/tech-blog/client-side-microservice-frameworks/) — Pete Martin
@@ -126,10 +130,19 @@ A non-exhaustive list of useful JavaScript programming and application developme
 
 ### JavaScript debugging & testing
 
+- [Why I use Tape instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.feekx44qo) — Eric Elliott
+- [Unit Testing and TDD in Node.js](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon) (Part 1 of 2) — David Tang
+- [Unit Testing React Components and Redux Reducers](http://pebblecode.com/blog/react-redux-unit-testing/) — Mike James
+- [React and Redux – Testing React](https://zombiecodekill.com/2016/05/28/react-and-redux-testing-react/) — Cory House
+- [React and Redux – Testing Redux](https://zombiecodekill.com/2016/05/28/react-and-redux-testing-redux/) — Cory House
+- [Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/) (with Ava) — Matija Marohnić
+- [Redux: Writing Tests](http://redux.js.org/docs/recipes/WritingTests.html)
 - [How To Debug RxJS Code](http://staltz.com/how-to-debug-rxjs-code.html) — Andre Staltz
 - [Writing Marble Tests (for RxJS)](https://github.com/ReactiveX/RxJS/blob/master/doc/writing-marble-tests.md) — Andre Staltz et al.
 - [RxJS Testing in Real World Applications](https://blog.hyphe.me/rxjs-testing-in-real-world-applications/) — Simon Jentsch
-- [Why I use Tape instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.feekx44qo) — Eric Elliott
+- [Karma vs testing framework Jasmine, Mocha, QUnit](http://stackoverflow.com/questions/26032124/karma-vs-testing-framework-jasmine-mocha-qunit) — Quora users
+- [From Karma to Mocha, with a taste of jsdom](https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21) — Domenico Matteo
+
 
 ### JavaScript performance
 
@@ -265,7 +278,8 @@ A JavaScript library for building user interfaces
   - [React-Konva](https://github.com/lavrton/react-konva) - A JavaScript library for drawing complex canvas graphics using React.
   - [React-Redux](https://github.com/reactjs/redux) - A predictable state container for JavaScript apps.
   - [React-Observable-Subscribe](https://github.com/jayphelps/react-observable-subscribe) - consume observables declaratively in React JSX
-
+  - [react-tape-redux](https://github.com/fc-io/react-tape-redux) - A boilerplate for React and Redux; using Tape and Karma for testing. Based on the somewhat less complex react-tape boilerplate.
+  - [React/Redux/ImmutableJS Tests](https://github.com/amitayh/react-redux-test)
 
 ### [Riot](http://riotjs.com/)
 A React-like user interface micro-library
@@ -329,7 +343,6 @@ Redux is a predictable state container for JavaScript apps: Single source of tru
 - [redux-devtools](https://github.com/dustinspecker/awesome-eslint) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS 5-based middleware for Redux. Compose and cancel async actions and more.
 - [redux-rx](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
-
 
 ### [RiotControl](https://github.com/jimsparkman/RiotControl)
 
