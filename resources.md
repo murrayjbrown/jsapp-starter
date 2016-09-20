@@ -132,6 +132,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 
 - [Why I use Tape instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.feekx44qo) — Eric Elliott
 - [Unit Testing and TDD in Node.js](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon) (Part 1 of 2) — David Tang
+- [Testing JavaScript Modules with Tape](https://ponyfoo.com/articles/testing-javascript-modules-with-tape) — Nicolás Bevacqua
 - [Unit Testing React Components and Redux Reducers](http://pebblecode.com/blog/react-redux-unit-testing/) — Mike James
 - [React and Redux – Testing React](https://zombiecodekill.com/2016/05/28/react-and-redux-testing-react/) — Cory House
 - [React and Redux – Testing Redux](https://zombiecodekill.com/2016/05/28/react-and-redux-testing-redux/) — Cory House
@@ -216,6 +217,10 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [uRequire](http://urequire.org/)
 
   uRequire converts your modules to UMD using static code analysis, a code generation template system and build/runtime dependency path resolution along with other build & runtime goodies.
+
+- [flowtype](https://flowtype.org/)
+
+  A static type checker for JavaScript
 
 ## Libraries
 - [lodash](https://lodash.com/)
