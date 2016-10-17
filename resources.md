@@ -83,6 +83,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) — Andre Medeiros
 - [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) — Andre Staltz
 - [Flux: An Application Architecture for React](https://facebook.github.io/flux/docs/overview.html)
+- [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/) — Code Monkey
 - [Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9) — Eric Elliott
 - [Skills JavaScript Developers Should Learn in 2016](https://www.codementor.io/learn-programming/javascript-trends-skills-developers-should-learn) — Yi-Jirr Chen
 - [A Beginners Guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460) — Nader Dabit
@@ -93,6 +94,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Step by Step Guide To Building React Redux Apps](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a) — Raja Rao
 - [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a) — Raja Rao
 - [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/) — Péter Márton
+- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) — Dan Abramov
 - [Building Applications with React and Redux in ES6](https://zombiecodekill.com/2016/05/21/building-applications-with-react-and-redux-in-es6/) — Cory House
 - [React Guide: Props vs State](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md) — Ovidiu Cherecheș et al.
 - [How I learned to stop worrying and love the JSX](http://jamesknelson.com/learned-stop-worrying-love-jsx/) — James K Nelson
@@ -133,6 +135,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Why I use Tape instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.feekx44qo) — Eric Elliott
 - [Unit Testing and TDD in Node.js](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon) (Part 1 of 2) — David Tang
 - [Testing JavaScript Modules with Tape](https://ponyfoo.com/articles/testing-javascript-modules-with-tape) — Nicolás Bevacqua
+- [TAP & Tape, the awesome way to test JavaScript](http://www.macwright.org/2014/03/11/tape-is-cool.html) — Tom MacWright
 - [Unit Testing React Components and Redux Reducers](http://pebblecode.com/blog/react-redux-unit-testing/) — Mike James
 - [React and Redux – Testing React](https://zombiecodekill.com/2016/05/28/react-and-redux-testing-react/) — Cory House
 - [React and Redux – Testing Redux](https://zombiecodekill.com/2016/05/28/react-and-redux-testing-redux/) — Cory House
