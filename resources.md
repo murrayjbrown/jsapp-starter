@@ -24,6 +24,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)  — Douglass Crockford
 - [Javascript: The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) ([shorter version](https://www.youtube.com/watch?v=PSGEjv3Tqo0)) — Douglass Crockford
 - [Crockford on Javascript: Functions](https://www.youtube.com/watch?v=lVnnxfdLdlM) — Douglass Crockford
+- [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205#.rnv0dhl7i) — Mattias Petter Johansson
 - [Monads and Gonads (Concurrency)](https://www.youtube.com/watch?v=b0EF0VTs9Dc) — Douglass Crockford
 - [React + Redux + Webpack (tutorial series)](https://www.youtube.com/watch?v=fZKaq623y38&list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg) — Kurt Weiberth
 - [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) — Dan Abramov
@@ -79,6 +80,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) — Eric Elliott
 
 ### JavaScript architecture & design patterns
+- [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205#.rnv0dhl7i) — Mattias Petter Johansson
 - [Fun with Stamps](https://medium.com/@koresar/fun-with-stamps-episode-1-stamp-basics-e0627d81efe0) — Vasyl Boroviak
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) — Andre Medeiros
 - [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) — Andre Staltz
@@ -98,10 +100,14 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Building Applications with React and Redux in ES6](https://zombiecodekill.com/2016/05/21/building-applications-with-react-and-redux-in-es6/) — Cory House
 - [React Guide: Props vs State](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md) — Ovidiu Cherecheș et al.
 - [How I learned to stop worrying and love the JSX](http://jamesknelson.com/learned-stop-worrying-love-jsx/) — James K Nelson
+- [React "Aha" Moments](https://dev.to/tylermcginnis/react-aha-moments) — Tyler McGinnis
 - [Middlewares And React Redux Life Cycle](https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6) — Raja Rao
 - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) — Tero Parviainen
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) — Eric Elliott
+- [Structuring React and Redux Applications](https://medium.com/front-end-hacking/structuring-react-and-redux-applications-255361d24f84) — Artem Sapegin
 - [Optimising React Rendering](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae) — Anton Lavrenov
+- [The ReactiveX library for JavaScript (RxJS)](http://reactivex.io/rxjs/)
+- [Immutable collections for JavaScript](https://facebook.github.io/immutable-js/)
 - [redux-observable](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52) — Ben Lesh
 - [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872#.3z4b8lsqj) — Frederik Krautwald
 - [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
@@ -152,7 +158,6 @@ A non-exhaustive list of useful JavaScript programming and application developme
 
 - [JavaScript At Scale — Achieving High Velocity](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03) — Kurtis Kemple
 - [Benchmarks: Virtual DOM vs Angular vs Mithril.js vs ...](https://goo.gl/jp5C66)
-
 
 ## Websites
 - [JavasScript: Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -291,7 +296,6 @@ A JavaScript library for building user interfaces
 
 ### [Riot](http://riotjs.com/)
 A React-like user interface micro-library
-
 
 ## MV* Frameworks
 
