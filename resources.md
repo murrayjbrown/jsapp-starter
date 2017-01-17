@@ -109,6 +109,8 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [The ReactiveX library for JavaScript (RxJS)](http://reactivex.io/rxjs/)
 - [Immutable collections for JavaScript](https://facebook.github.io/immutable-js/)
 - [redux-observable](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52) — Ben Lesh
+- [Improve Redux with redux-observable](https://taylorhakes.com/posts/improve-redux-with-redux-observable/) — Taylor Hakes
+- [Redux Observable RxJS: Going Epic with Reactive Programming](https://robinwieruch.de/redux-observable-rxjs/) — Robin Wieruch
 - [Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872#.3z4b8lsqj) — Frederik Krautwald
 - [Why I chose to use Cycle.js](https://medium.com/@_cmdv_/why-i-chose-to-use-cycle-js-9156173c2752#.oojro6k1s) — Vincent O.
 - [Client-side Microservice Frameworks](http://www.pixability.com/tech-blog/client-side-microservice-frameworks/) — Pete Martin
@@ -116,6 +118,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [What are the best Angular.js alternatives?](http://www.slant.co/topics/4306/~angular-js-alternatives)
 - [Writing a JavaScript framework](https://blog.risingstack.com/writing-a-javascript-framework-project-structuring/) — Bertalan Miklos
 - [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.gs0qh4ld7) — Eric Elliott
+- [Advanced logging with NodeJs](http://tostring.it/2014/06/23/advanced-logging-with-nodejs/) — Ugo Lattanzi
 
 ### JavaScript development
 
