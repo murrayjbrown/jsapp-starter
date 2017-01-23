@@ -61,6 +61,9 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Is “Class” In ES6 The New “Bad” Part?](https://medium.com/@rajaraodv/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65) — Raja Rao
 - [JavaScript Promises: There and back again](http://www.html5rocks.com/en/tutorials/es6/promises/) — Jake Archibald
 - [Untangling Deeply-Nested Promise Chains](https://philipwalton.com/articles/untangling-deeply-nested-promise-chains/) — Philip Walton
+- [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/) — Keith Cirkel
+- [Symbols in ECMAScript 6](http://www.2ality.com/2014/12/es6-symbols.html) — Axel Rauschmayer
+- [ES6 In Depth: Symbols](https://hacks.mozilla.org/2015/06/es6-in-depth-symbols/) — Jason Orendorff
 
 ### JavaScript programming paradigms
 
@@ -381,7 +384,11 @@ A simplistic central event controller/dispatcher for *Riot,* inspired by Faceboo
 
   Functional programming in your browser.
 
-## Linked data & schema tools
+## JSON, linked data & schema tools
+
+- [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/UnderstandingJSONSchema.pdf) — Michael Droettboom, et al
+
+- [JSL](http://jsl.readthedocs.io/en/latest/) - JSL is a (Python-based) DSL for describing JSON schemas.
 
 - [docson](https://github.com/lbovet/docson) - generate documentation for JSON-Schema.
 
@@ -394,6 +401,7 @@ A simplistic central event controller/dispatcher for *Riot,* inspired by Faceboo
 - [jsonld](https://github.com/digitalbazaar/jsonld.js) - a JSON-LD Processor and API implementation.
 
 - [typson](https://github.com/lbovet/typson) - generate JSON-Schema from TypeScript type definitions.
+-
 
 ## Miscellaneous
 
