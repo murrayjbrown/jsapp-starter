@@ -64,6 +64,10 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/) — Keith Cirkel
 - [Symbols in ECMAScript 6](http://www.2ality.com/2014/12/es6-symbols.html) — Axel Rauschmayer
 - [ES6 In Depth: Symbols](https://hacks.mozilla.org/2015/06/es6-in-depth-symbols/) — Jason Orendorff
+- [Array slices and membranes using ES6 proxies](https://curiosity-driven.org/array-slices)
+- [What are the actual uses of ES6 WeakMap?](http://stackoverflow.com/questions/29413222/what-are-the-actual-uses-of-es6-weakmap)
+- [Meta Programming: Symbols, Proxies, and Reflections](https://dominic097.github.io/blog/)
+
 
 ### JavaScript programming paradigms
 
@@ -79,7 +83,6 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Master the JavaScript Interview: What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.av36tzo63) — Eric Elliott
 - [The Taxonomy of Reactive Programming](https://dzone.com/articles/the-taxonomy-of-reactive-programming-1) — Victor Savkin
 - [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) — Andre Staltz
-- [Partitioning RxJS streams: adventures in nested Observables with groupBy() and flatMap()](http://www.g9labs.com/2016/02/17/partitioning-rxjs-streams-adventures-in-nested-observables-with-groupby-and-flatmap/) — Andrew Hao
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) — Eric Elliott
 
 ### JavaScript architecture & design patterns
@@ -109,7 +112,10 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) — Eric Elliott
 - [Structuring React and Redux Applications](https://medium.com/front-end-hacking/structuring-react-and-redux-applications-255361d24f84) — Artem Sapegin
 - [Optimising React Rendering](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae) — Anton Lavrenov
+- [Exteme Decoupling: React, Redux, Selectors](http://www.thinkloop.com/article/extreme-decoupling-react-redux-selectors/) — Baz
 - [The ReactiveX library for JavaScript (RxJS)](http://reactivex.io/rxjs/)
+- [Partitioning RxJS streams: adventures in nested Observables with groupBy() and flatMap()](http://www.g9labs.com/2016/02/17/partitioning-rxjs-streams-adventures-in-nested-observables-with-groupby-and-flatmap/) — Andrew Hao
+- [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0#.4vh0o8tzw) — Netanel Basal
 - [Immutable collections for JavaScript](https://facebook.github.io/immutable-js/)
 - [redux-observable](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52) — Ben Lesh
 - [Improve Redux with redux-observable](https://taylorhakes.com/posts/improve-redux-with-redux-observable/) — Taylor Hakes
