@@ -76,6 +76,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [The Heart & Soul of Prototypal OO: Concatenative Inheritance](https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819) — Eric Elliott
 - [Prototypical inheritance done right](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/) — Oliver Caldwell
 - [JavaScript Classes and Instantiation Patterns](http://www.ryanatkinson.io/javascript-instantiation-patterns/) — Ryan Atkinson
+- [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4#.qtx4ao8w4) — Dan Abramov
 - [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) — Eric Elliott
 - [Don’t Be Scared Of Functional Programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/) — Jonathon Morgan
 - [Functional Concepts For JavaScript Developers: Currying](https://blog.simpleblend.net/functional-javascript-concepts-currying/) — Andrew Robbins
@@ -92,6 +93,7 @@ A non-exhaustive list of useful JavaScript programming and application developme
 - [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) — Andre Staltz
 - [Flux: An Application Architecture for React](https://facebook.github.io/flux/docs/overview.html)
 - [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/) — Code Monkey
+- [Node.js Async Best Practices & Avoiding Callback Hell - Node.js at Scale](https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/) — Tamas Hodi
 - [Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9) — Eric Elliott
 - [Skills JavaScript Developers Should Learn in 2016](https://www.codementor.io/learn-programming/javascript-trends-skills-developers-should-learn) — Yi-Jirr Chen
 - [A Beginners Guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460) — Nader Dabit
